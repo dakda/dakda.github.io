@@ -1,5 +1,5 @@
 ---
-title: Hexo Template
+title: 薛斯
 ---
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
