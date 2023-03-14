@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" alt="Hexo logo" width="100" height="100" align="right" />
 
-# 薛斯
+# 艾尔迪亚
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
 

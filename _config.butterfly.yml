@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@dakda 
-jerryc127
-/
-hexo-theme-butterfly
-Public
-Fork your own copy of jerryc127/hexo-theme-butterfly
-Code
-Issues
-10
-Pull requests
-2
-Discussions
-Actions
-Security
-Insights
-hexo-theme-butterfly/_config.yml
-@jerryc127
-jerryc127 breaking changes: CDN 配置了 version 為 true, 本地鏈接也會加上版本號 closed #1218
-…
-Latest commit a7d6d0f 4 days ago
- History
- 13 contributors
-@jerryc127@pai233@weilining@slblog-github@hajeekn@dlinedev@ImCa0@Gahotx@cooper1x@flymin@ChenYFan@Srkeo
-965 lines (831 sloc)  24.5 KB
-
 # Main menu navigation (導航目錄)
 # see https://butterfly.js.org/posts/4aa8abbe/#導航菜單
 # --------------------------------------
@@ -996,18 +963,3 @@ CDN:
     # artalk_js:
     # artalk_css:
     # busuanzi:
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-hexo-theme-butterfly/_config.yml at dev · jerryc127/hexo-theme-butterfly
